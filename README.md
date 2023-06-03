@@ -10,4 +10,3 @@ Beautiful Soup(for webscraping).
 Pandas(for data preprocessing & EDA).
 Seaborn & Pyplot(for EDA).
 scikit-learn(for implementing a linear regression model and predictions).
-## Code files:
